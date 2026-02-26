@@ -46,8 +46,8 @@ Database	PostgreSQL or MySQL (planned)
 📦 Setup Instructions
 Frontend Setup (React)
 # Clone the repository
-git clone https://github.com/yourusername/healthcare-dashboard.git
-cd healthcare-dashboard
+git clone https://github.com/Zaibonisha/med_agent
+cd med_agent
 
 # Install dependencies
 npm install
